@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "CRYPTO_VOLUME_DB_HOST",
+    "port": "CRYPTO_VOLUME_DB_PORT",
+    "name": "CRYPTO_VOLUME_DB_NAME",
+    "user": "CRYPTO_VOLUME_DB_USER",
+    "pass": "CRYPTO_VOLUME_DB_PASS"
+  },
+  "api": {
+    "api_key": "CRYPTO_VOLUME_API_KEY",
+    "min_amount": "CRYPTO_VOLUME_MIN_AMOUNT"
+  }
+}

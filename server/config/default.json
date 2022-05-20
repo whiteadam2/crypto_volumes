@@ -1,0 +1,8 @@
+{
+  "app": {
+    "schedule": "*/5 * * * *",
+    "express_port": 4000,
+    "timeout": 3000,
+    "num_records": 10
+  }
+}
